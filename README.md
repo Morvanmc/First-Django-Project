@@ -2,7 +2,7 @@
 
 ## Description
 
-This project was developed followed the Django's Tutorial.
+This project was developed following the Django's Tutorial.
 Polls is a Django app to conduct Web-based polls. For each question, visitors can choose between a fixed number of answers.
 
 ## More Informations
